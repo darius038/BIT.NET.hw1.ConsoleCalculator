@@ -1,6 +1,6 @@
-# Foobar
+# Console Calculator
 
-Simple console application - calculator, performinf these operations: + - * / ^
+Simple C# console application - calculator, performing math operations: + - * / ^
 
 ## Usage
 
